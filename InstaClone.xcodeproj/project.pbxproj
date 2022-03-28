@@ -23,6 +23,7 @@
 		57BDF00C27F20C940010925C /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDF00B27F20C940010925C /* UserCell.swift */; };
 		57BDF00E27F20CB50010925C /* UserListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDF00D27F20CB50010925C /* UserListView.swift */; };
 		57EB4DF227F2175A00874818 /* Ext+UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EB4DF127F2175A00874818 /* Ext+UIApplication.swift */; };
+		57EB4DF427F21B3600874818 /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EB4DF327F21B3600874818 /* NotificationCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		57BDF00B27F20C940010925C /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
 		57BDF00D27F20CB50010925C /* UserListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListView.swift; sourceTree = "<group>"; };
 		57EB4DF127F2175A00874818 /* Ext+UIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ext+UIApplication.swift"; sourceTree = "<group>"; };
+		57EB4DF327F21B3600874818 /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +200,7 @@
 			isa = PBXGroup;
 			children = (
 				576A1B3A27EB5EF20065776D /* NotificationsView.swift */,
+				57EB4DF327F21B3600874818 /* NotificationCell.swift */,
 			);
 			path = Notification;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				57BDF00827F206BA0010925C /* SearchBar.swift in Sources */,
 				576A1B3B27EB5EF20065776D /* NotificationsView.swift in Sources */,
 				576A1B4127EB62060065776D /* FeedCell.swift in Sources */,
+				57EB4DF427F21B3600874818 /* NotificationCell.swift in Sources */,
 				57BDF00E27F20CB50010925C /* UserListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
