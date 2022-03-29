@@ -19,6 +19,11 @@
 		576A1B3F27EB5F1D0065776D /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576A1B3E27EB5F1C0065776D /* ProfileView.swift */; };
 		576A1B4127EB62060065776D /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576A1B4027EB62060065776D /* FeedCell.swift */; };
 		57A267F227F35C1C000CAAC7 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267F127F35C1C000CAAC7 /* ImagePicker.swift */; };
+		57A267F427F36458000CAAC7 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267F327F36458000CAAC7 /* LoginView.swift */; };
+		57A267F627F36463000CAAC7 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267F527F36463000CAAC7 /* RegistrationView.swift */; };
+		57A267F827F36471000CAAC7 /* ResetPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267F727F36471000CAAC7 /* ResetPasswordView.swift */; };
+		57A267FA27F368A7000CAAC7 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267F927F368A7000CAAC7 /* CustomTextField.swift */; };
+		57A267FC27F368BA000CAAC7 /* CustomSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A267FB27F368BA000CAAC7 /* CustomSecureField.swift */; };
 		57BDF00827F206BA0010925C /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDF00727F206BA0010925C /* SearchBar.swift */; };
 		57BDF00A27F20AC80010925C /* PostGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDF00927F20AC80010925C /* PostGridView.swift */; };
 		57BDF00C27F20C940010925C /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BDF00B27F20C940010925C /* UserCell.swift */; };
@@ -44,6 +49,11 @@
 		576A1B3E27EB5F1C0065776D /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		576A1B4027EB62060065776D /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 		57A267F127F35C1C000CAAC7 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		57A267F327F36458000CAAC7 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		57A267F527F36463000CAAC7 /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
+		57A267F727F36471000CAAC7 /* ResetPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetPasswordView.swift; sourceTree = "<group>"; };
+		57A267F927F368A7000CAAC7 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		57A267FB27F368BA000CAAC7 /* CustomSecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSecureField.swift; sourceTree = "<group>"; };
 		57BDF00727F206BA0010925C /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		57BDF00927F20AC80010925C /* PostGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostGridView.swift; sourceTree = "<group>"; };
 		57BDF00B27F20C940010925C /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
@@ -160,6 +170,8 @@
 			children = (
 				57EB4DF127F2175A00874818 /* Ext+UIApplication.swift */,
 				57A267F127F35C1C000CAAC7 /* ImagePicker.swift */,
+				57A267F927F368A7000CAAC7 /* CustomTextField.swift */,
+				57A267FB27F368BA000CAAC7 /* CustomSecureField.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -220,6 +232,9 @@
 		576A1B2E27EB5DF10065776D /* Authentication */ = {
 			isa = PBXGroup;
 			children = (
+				57A267F327F36458000CAAC7 /* LoginView.swift */,
+				57A267F527F36463000CAAC7 /* RegistrationView.swift */,
+				57A267F727F36471000CAAC7 /* ResetPasswordView.swift */,
 			);
 			path = Authentication;
 			sourceTree = "<group>";
@@ -335,9 +350,12 @@
 				576A1B3F27EB5F1D0065776D /* ProfileView.swift in Sources */,
 				576A1B3927EB5EE00065776D /* SearchView.swift in Sources */,
 				57BDF00A27F20AC80010925C /* PostGridView.swift in Sources */,
+				57A267F627F36463000CAAC7 /* RegistrationView.swift in Sources */,
+				57A267FA27F368A7000CAAC7 /* CustomTextField.swift in Sources */,
 				576A1B3727EB5EBE0065776D /* FeedView.swift in Sources */,
 				576A1B3D27EB5F040065776D /* UploadPostView.swift in Sources */,
 				576A1B1727EB5D880065776D /* ContentView.swift in Sources */,
+				57A267F827F36471000CAAC7 /* ResetPasswordView.swift in Sources */,
 				57EB4DF227F2175A00874818 /* Ext+UIApplication.swift in Sources */,
 				57A267F227F35C1C000CAAC7 /* ImagePicker.swift in Sources */,
 				57EB4DF627F2416800874818 /* ProfileHeaderView.swift in Sources */,
@@ -345,11 +363,13 @@
 				57EB4DF827F260C300874818 /* UserStatView.swift in Sources */,
 				576A1B3527EB5E8B0065776D /* MainTabView.swift in Sources */,
 				57BDF00C27F20C940010925C /* UserCell.swift in Sources */,
+				57A267FC27F368BA000CAAC7 /* CustomSecureField.swift in Sources */,
 				57BDF00827F206BA0010925C /* SearchBar.swift in Sources */,
 				576A1B3B27EB5EF20065776D /* NotificationsView.swift in Sources */,
 				57EB4DFA27F264D400874818 /* ProfileActionButtonView.swift in Sources */,
 				576A1B4127EB62060065776D /* FeedCell.swift in Sources */,
 				57EB4DF427F21B3600874818 /* NotificationCell.swift in Sources */,
+				57A267F427F36458000CAAC7 /* LoginView.swift in Sources */,
 				57BDF00E27F20CB50010925C /* UserListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
