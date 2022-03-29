@@ -12,9 +12,9 @@ struct PostGridView: View {
     private let width = UIScreen.main.bounds.width / 3
     var body: some View {
         LazyVGrid(columns: items, spacing: 2) {
-            ForEach(0..<10) { _ in
+            ForEach(0..<20) { _ in
                 NavigationLink(destination: FeedView(), label: {
-                    Image("r2d2")
+                    Image("c3po")
                         .resizable()
                         .scaledToFill()
                         .frame(width: width, height: width)
