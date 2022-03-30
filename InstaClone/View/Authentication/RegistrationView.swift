@@ -16,6 +16,7 @@ struct RegistrationView: View {
     @State private var selectedImage: UIImage?
     @State private var image: Image?
     @State private var imagePickerPresented = false
+    @EnvironmentObject var viewModel: AuthViewModel
     var body: some View {
         ZStack {
             LinearGradient(gradient: Gradient(colors: [Color.purple, Color.blue]), startPoint: .top, endPoint: .bottom)
@@ -53,7 +54,9 @@ struct RegistrationView: View {
                     
                     CustomSecureField(text: $password, placeHolder: Text("Password"))
                 }
-                Button(action: {}, label: {
+                Button(action: {
+                    viewModel.register(withEmail: email, password: password, image: selectedImage, fullname: fullName, username: userName)
+                }, label: {
                     Text("Sign Up")
                         .font(.headline)
                         .foregroundColor(.white)
