@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5368DF91-8831-46D8-BAD0-E6FCB6B7DCD4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD899C8B-7E41-4FC1-9230-717D7B157CF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/InstaCloneApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4638EFAB-63DF-4355-BBD2-1A3633F1C6BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/InstaCloneApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40B62635-756F-4CB6-BC0C-5588E33F579B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/MainTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "MainTabView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "667F4864-9ECF-4FAB-A17A-4B6F58B65C29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "667F4864-9ECF-4FAB-A17A-4B6F58B65C29 - e10e6a4c841a6ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.ContentView.init() -&gt; InstaClone.ContentView"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufyuksek/Desktop/SwiftUI/InstaClone/InstaClone/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "667F4864-9ECF-4FAB-A17A-4B6F58B65C29 - ad56b09dd88f871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.ContentView.init(viewModel: SwiftUI.EnvironmentObject&lt;InstaClone.AuthViewModel&gt;) -&gt; InstaClone.ContentView"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufyuksek/Desktop/SwiftUI/InstaClone/InstaClone/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "10">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE23C4B1-9EE6-40D8-B2E3-41F47C8FD4D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB6E40A7-58A1-493B-9C74-0135D5AECB7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C7D8E36-B78F-4157-A5B1-61E389402477"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/InstaCloneApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B204BF7-C399-46C6-B374-6AB4ABA24BA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1B204BF7-C399-46C6-B374-6AB4ABA24BA2 - 1ea485bce8f46a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.ContentView.viewModel.getter : InstaClone.AuthViewModel"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufyuksek/Desktop/SwiftUI/InstaClone/InstaClone/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  uuid = "1B204BF7-C399-46C6-B374-6AB4ABA24BA2 - 157653056cc21be4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.ContentView.$viewModel.getter : SwiftUI.EnvironmentObject&lt;InstaClone.AuthViewModel&gt;.Wrapper"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufyuksek/Desktop/SwiftUI/InstaClone/InstaClone/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  uuid = "1B204BF7-C399-46C6-B374-6AB4ABA24BA2 - e10e6a4c841a6ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaClone.ContentView.init() -&gt; InstaClone.ContentView"
+                  moduleName = "InstaClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yusufyuksek/Desktop/SwiftUI/InstaClone/InstaClone/View/Main/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "495C07DA-B6D4-4EA1-865C-382D9304D61C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CEA3103-58CB-4277-A661-A1D82776C9C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaClone/View/Main/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
