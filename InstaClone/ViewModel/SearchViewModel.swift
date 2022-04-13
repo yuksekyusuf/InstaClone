@@ -9,6 +9,7 @@ import SwiftUI
 
 class SearchViewModel: ObservableObject {
     @Published var users = [User]()
+    @Published var posts = [Post]()
     
     init() {
         fetchUsers()
@@ -18,6 +19,13 @@ class SearchViewModel: ObservableObject {
         COLLECTION_USERS.getDocuments { snapshot, _ in
             guard let documents = snapshot?.documents else { return }
             self.users = documents.compactMap({ try? $0.data(as: User.self) })
+        }
+    }
+    
+    func fetchPosts() {
+        COLLECTION_USERS.getDocuments { snapshot, _ in
+            guard let documents = snapshot?.documents else { return }
+            self.posts = documents.compactMap({ try? $0.data(as: Post.self) })
         }
     }
     
